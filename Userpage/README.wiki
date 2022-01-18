@@ -2,6 +2,10 @@ Wikipedia is one of my top sites. I had an account here in the past, but it was 
 
 I am not active on Wikipedia as a signed-in user. You can reach out to me on GitHub if needed: https://github.com/seanpm2001/
 
+== Past account ==
+
+My past account went by the name SeanWallaWalla. It is my old online handle, but I still use it someplaces. My past offense was creating a Wikipedia page for myself. The problem with this is that it breaks multiple rules, and isn't allowed, since I am not notable for a Wikipedia page yet.
+
 == Interests ==
 I have strong interests in computer science, and history. I also have interests in hundreds of topics, including typography, linguistics, mathematics, robotics, geography, skeuomorphism, and more.
 
@@ -9,6 +13,9 @@ I have strong interests in computer science, and history. I also have interests 
 I have an offline copy of Wikipedia articles I visit as a curated archive of my Wikipedia viewing history. It is a strange habit, but it is useful. I use it when I want to read offline, or don't want to open a web browser.
 
 == Userboxes ==
+
+As of now, my userboxes currently don't work. I am attempting to fix them in my sandbox. https://en.wikipedia.org/User:Seanpm2001/Sandbox/
+
 <code><nowiki>{{</nowiki>[[User:Gilgamesh~enwiki/Anti-copyright]]<nowiki>}}</nowiki></code>
 
 <code><nowiki>{{</nowiki>[[User:Flarn2006/User anti-DRM]]<nowiki>}}</nowiki></code>
