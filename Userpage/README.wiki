@@ -4,35 +4,93 @@ I am not active on Wikipedia as a signed-in user. You can reach out to me on Git
 
 == Past account ==
 
+=== Seanwallawalla ===
 My past account went by the name SeanWallaWalla. It is my old online handle, but I still use it someplaces. My past offense was creating a Wikipedia page for myself. The problem with this is that it breaks multiple rules, and isn't allowed, since I am not notable for a Wikipedia page yet.
+
+=== Other past accounts ===
+I did not create any other past accounts.
 
 == Reach out ==
 [[File:Github-desktop-logo-symbol.svg|thumb|On GitHub since 2020 May 25th]]
 I am most active on GitHub. See the above link. For reaching out to me, please note that I am in the Pacific Time Zone (UTC-8) you can message me at any time 24/7 but I likely won't respond if you message me between 11:20 pm to 10:55 am.
 
-I am only on the English Wikipedia, I speak several languages, but most of them I cannot make out a single sentence. I can only speak English fluently.
-
 If you are to criticize me, please do so constructively. Non-constructive criticism is pointless and unhelpful.
 
+=== Wikipedia ===
+I am only on the English Wikipedia, I speak several languages, but most of them I cannot make out a single sentence. I can only speak English fluently.
 
+=== GitHub ===
+You can reach out to me on GitHub if needed: https://github.com/seanpm2001/
 
+=== Reddit ===
+I no longer use Reddit. There were too many dark patterns, and it damaged my mental health.
+
+=== Discord ===
+I am on Discord, but I don't feel it is appropriate to link it here. I am looking for a privacy focused alternative to Discord.
+
+=== Quora ===
+I am on Quora, but I don't respond here.
+
+=== Email ===
+
+==== Protonmail ====
+I use ProtonMail, but I don't feel it is appropriate to link it here.
 
 == Interests ==
-[[File:Rainlendar Skins.jpg|thumb|I prefer skeuomorphism over flat design.]]
+
 I have strong interests in computer science, and history. I also have interests in hundreds of topics, including typography, linguistics, mathematics, robotics, geography, skeuomorphism, and more.
 
 === Computer programming ===
-I program in the Python programming language mainly, but also write in Java, C, C++, and Boo natively. I can write in other languages as well, as I am a programming language savant.
+[[File:Python.svg|thumb|My first functional programming language was Python.]]
+
+I program in the Python programming language mainly, but also write in Java, C, C++, and Boo natively. I can write in other languages as well, as I am a programming language savant.<syntaxhighlight lang="python3" line="1">
+print("Hello Wikipedia!")
+noMore = input("Press [ENTER] key to continue")
+</syntaxhighlight>
 
 === Graphic design ===
+[[File:Rainlendar Skins.jpg|thumb|I prefer skeuomorphism over flat design.]]
 I am a critic of flat design, and prefer Skeuomorphism. For editing, I use GIMP, Scratch 2, Shotwell, and Inkscape. I used to use Adobe Photoshop, Adobe Animate, MS-PAINT, and Microsoft Paint 3D.
 
+==== Flat design ====
+I dislike flat design, see more below.
+
+==== Skeuomorphism ====
+Although an unpopular stance, I am strongly against flat design, and strongly in favor of Skeuomorphism. Modern flat design looks ugly, and makes me depressed. If Skeuomorphism doesn't come back, we should at least have it as an optional view mode. Even gradient or a detailed pattern fill would be fine with me.
+
+Common examples of Skeuomorphism I enjoy are Apples Mac OS X/OS X (Up to OS X 10.9) iPhoneOS and iOS (up to iOS 6) QuickTime 1 to 7, Android 1.0 to 2.3, Windows XP to Windows 7, GNOME 1 and 2, KDE 1 to 3.5, among other examples.
+
 === History ===
+[[File:NormandySupply edit.jpg|thumb|One of my favorite images from WW2.]]
 I am a major history buff, and read about history in my spare time. I have interest in most fields of history, including pre-history, local history, technical history, military history, cultural history, art history, and more. My favorite subjects are the Roman Empire, the Napoleonic Wars, World War 2, the history of Europe, Asia, the Americas, and Africa, history of open source software, the Cambrian Explosion, and more.
+
+=== Linguistics ===
+[[File:Stub-icon linguistics.svg|thumb|Linguistics are another interest of mine.]]
+I am strongly into linguistics, it is mostly a vanity thing, but I also like to preserve languages, especially endangered ones. As a child, I jokingly had the middle name of "Language"
+
+=== Robotics ===
+[[File:Icon robot.svg|thumb|I abide by the laws of robotics.]]
+I am still getting into robotics, I have attempted to build in the past, but haven't had much success.
+
+=== Geography ===
+[[File:1907 map of Asia Minor-Atlas of Ancient and Classical Geography by Samuel Butler.jpg|thumb|Geography is a vanity hobby for me.]]
+I am into geography. Like linguistics, it is mostly a vanity thing.
+
+=== Typography ===
+[[File:Lucida Blackletter sample.svg|thumb|Still looking for this font.]]
+I love typography, although I don't make too much use of it at times. I am still looking to find a blackletter font for Linux.
 
 == WikiPDF ==
 [[File:PDF-ODF bildsimbolo 001.png|thumb|Download as PDF: used 10000+ times]]
 I have an offline copy of Wikipedia articles I visit as a curated archive of my Wikipedia viewing history. It is a strange habit, but it is useful. I use it when I want to read offline, or don't want to open a web browser.
+
+The collection (as of 2022 January 18th) has over 11230 entries and counting. It archives every article I have ever visited.
+
+Entries are viewed using Okular offline. The project was started on 2021 July 23rd.
+
+More info can be viewed here: https://github.com/seanpm2001/SeansLifeArchive_Extras_Wikipedia/tree/main/Wikipedia/WikiPDF
+
+... and here: https://github.com/seanpm2001/SeansLifeArchive_Extras_Wikipedia/tree/main/Wikipedia/WikiFull
 
 == Userboxes ==
 
@@ -221,6 +279,9 @@ As of now, my userboxes currently don't work. I am attempting to fix them in my 
 <code><nowiki>{{</nowiki>[[User:Bilorv/RussianReversal]]<nowiki>|Wikipedia|reads|you}}</nowiki></code>
 
 <code><nowiki>{{</nowiki>[[User:Buffbills7701/404error]]<nowiki>}}</nowiki></code>
+
+== Source code ==
+The source code for this page is also available at https://github.com/seanpm2001/SeansLifeArchive_Extras_Wikipedia/tree/main/Userpage
 
 == Other ==
 No other information is available here.
