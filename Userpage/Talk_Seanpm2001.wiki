@@ -1,2 +1,19 @@
 Welcome to my talkpage. As of editing this page, I have made no edits to Wikipedia with this account, I am making this page for future use.
---~~~~Seanpm2001
+--[[User:Seanpm2001|Seanpm2001]] ([[User talk:Seanpm2001#top|talk]]) 04:32, 18 January 2022 (UTC)Seanpm2001
+
+Please remember to [[Wikipedia:Signatures|sign]] your messages on [[Help:Talk pages|talk page]]s by typing four [[tilde]]s (<nowiki>~~~~</nowiki>); this will automatically insert your username and the date.
+
+Page edits: 
+
+https://en.wikipedia.org/w/index.php?title=Python_(programming_language)&oldid=1066745391
+
+See all contributions: https://en.wikipedia.org/wiki/Special:Contributions/Seanpm2001
+
+== Python apostrophe ==
+
+I was wondering why my edit was reverted. Standard Python syntax uses " instead of ' or am I missing something?
+
+[[User:Seanpm2001|Seanpm2001]] ([[User talk:Seanpm2001|talk]]) 02:11, 20 January 2022 (UTC)seanpm2001
+: You're missing that Python allows using either.
+: What is "Standard Python"? Python's documentation prefers single quotes and so does the language itself, for example if you do <code>print(repr("hello"))</code> it'll print <code>'hello'</code>. [[User:Akeosnhaoe|Akeosnhaoe]] ([[User talk:Akeosnhaoe#top|talk]]) 02:33, 20 January 2022 (UTC)
+Thank you for the correction. I didn't know that part. I was taught to do it only with parentheses, and not apostrophes. I should probably go and fix my source code now. [[User:Seanpm2001|Seanpm2001]] ([[User talk:Seanpm2001|talk]]) 02:40, 20 January 2022 (UTC)Seanpm2001
