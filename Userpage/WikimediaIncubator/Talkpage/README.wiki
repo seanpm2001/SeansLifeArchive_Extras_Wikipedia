@@ -1,0 +1,19 @@
+<div style="margin:.5em;">
+{{Welcome-toolbox
+|create=(to create a wiki)
+|lang-support=Language support
+|float={{#ifeq:{{lc:ltr}}|rtl|left|right}}
+}}
+{{#ifeq:{{lc:ltr}}|rtl|<div class="rtl-text">|}}
+Welcome to Wikimedia Incubator!
+{{#ifeq:|yes|If you haven't already, please consider creating yourself an account to be able to do more.  It's free.<br>}}
+At the right there are some important links, and here are some tips and info:
+* If you haven't created a user page yet, please [[Special:MyPage|create one]] with for example [[Incubator:Babel|Babel templates]] on it.
+* You can select your interface language in [[Special:Preferences|your preferences]].
+* If you make articles, templates or categories, don't forget to add a [[Help:FAQ#Prefix|prefix]]!
+* If your knowledge of English is good, you can [[Incubator:Translation project|help with translating]] pages to other languages you know, so more people can understand them!
+* If you want to translate the interface, please go to [[translatewiki:|Translatewiki.net]] and follow their instructions.
+
+If you have any questions, feel free to ask them on [[Incubator:Community Portal]].{{#ifeq:{{lc:ltr}}|rtl|</div>|}}</div>
+
+-- [[User:Welcoming Bot|Welcoming Bot]] 04:11, 21 January 2022 (UTC)
