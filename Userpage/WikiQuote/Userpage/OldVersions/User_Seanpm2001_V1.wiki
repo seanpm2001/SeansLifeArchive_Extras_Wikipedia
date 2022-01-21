@@ -1,0 +1,15 @@
+This is my WikiQuote profile. For my main page, go here: https://en.wikipedia.org/wiki/User:Seanpm2001
+
+== Why ==
+
+I wanted to take advantage of the whole Wikimedia experience by appearing on all of the Wikimedia projects sites.
+
+== Favorite quotes ==
+
+It seems that perfection is attained not when there is nothing more to add, but when there is nothing more to remove. - [https://en.wikiquote.org/wiki/Antoine_de_Saint_Exup%C3%A9ry Antoine de Saint Exup]
+
+Talk is cheap. Show me the code. - [https://en.wikiquote.org/wiki/Linus_Torvalds#2000s Linus Torvalds]
+
+Imagination is more important than knowledge - [https://en.wikiquote.org/wiki/Albert_Einstein#Viereck_interview_(1929) Albert Einstein]
+
+C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off. [https://en.wikiquote.org/wiki/Bjarne_Stroustrup Bjarne Stroustrup]
