@@ -1,0 +1,3 @@
+  {{Welcome|realName=|name=Seanpm2001}}
+
+-- [[User:Wikimedia Commons Welcome|Wikimedia Commons Welcome]] ([[User talk:Wikimedia Commons Welcome|<span class="signature-talk">{{int:Talkpagelinktext}}</span>]]) 07:34, 19 January 2022 (UTC)
