@@ -1,0 +1,25 @@
+This is my Wikiversity profile. For my main page, go here: https://en.wikipedia.org/wiki/User:Seanpm2001
+
+== Why ==
+
+I wanted to take advantage of the whole Wikimedia experience by appearing on all of the Wikimedia projects sites.
+
+== What I'm learning ==
+
+The Python programming language
+
+Computer science
+
+Web development (HTML5, CSS, JavaScript, TypeScript, PHP, Ruby, Python, ActionScript, Pugs, Handlebars, Mustache, Smarty, etc.)
+
+The C programming language
+
+The C++ programming language
+
+The Boo programming language
+
+The Ruby programming language
+
+History of the entire world
+
+And more...
