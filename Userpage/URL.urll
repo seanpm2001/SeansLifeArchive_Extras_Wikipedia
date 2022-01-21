@@ -1,9 +1,32 @@
+--URLL-version=2;
+--URLL:"///Userpage/URL.urll";
+--Revision: 5;
+--Description: "A list of links to my accounts on the network of Wikimedia services";
+-- Wikipedia [English]
+-- -- Userpage
 https://en.wikipedia.org/wiki/User:Seanpm2001
+-- -- Talkpage
 https://en.wikipedia.org/wiki/User_talk:Seanpm2001
+-- -- Sandbox
 https://en.wikipedia.org/wiki/User:Seanpm2001/sandbox
+-- -- Sandbox Talkpage
 https://en.wikipedia.org/wiki/User_talk:Seanpm2001/sandbox
+-- Wikimedia commons [English]
+-- -- Userpage
 https://commons.wikimedia.org/wiki/User:Seanpm2001
+-- -- Talkpage
 https://commons.wikimedia.org/wiki/User_talk:Seanpm2001
+-- WikiQuote [English]
+-- -- Userpage
 https://en.wikiquote.org/wiki/User:Seanpm2001
-https://en.wikinews.org/wiki/User:Seanpm2001
+-- -- Talkpage
+https://en.wikiquote.org/wiki/User_talk:Seanpm2001
+-- Wikipedia [Classical Chinese]
+-- -- Talkpage
 https://zh-classical.wikipedia.org/wiki/%E7%94%A8%E6%88%B6%E8%A8%8E%E8%AB%96:Seanpm2001
+-- WikiNews [English]
+-- -- Userpage
+https://en.wikinews.org/wiki/User:Seanpm2001
+-- -- Talkpage
+https://en.wikinews.org/wiki/User_talk:Seanpm2001
+--END
