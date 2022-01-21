@@ -16,4 +16,5 @@ I was wondering why my edit was reverted. Standard Python syntax uses " instead 
 [[User:Seanpm2001|Seanpm2001]] ([[User talk:Seanpm2001|talk]]) 02:11, 20 January 2022 (UTC)seanpm2001
 : You're missing that Python allows using either.
 : What is "Standard Python"? Python's documentation prefers single quotes and so does the language itself, for example if you do <code>print(repr("hello"))</code> it'll print <code>'hello'</code>. [[User:Akeosnhaoe|Akeosnhaoe]] ([[User talk:Akeosnhaoe#top|talk]]) 02:33, 20 January 2022 (UTC)
-Thank you for the correction. I didn't know that part. I was taught to do it only with parentheses, and not apostrophes. I should probably go and fix my source code now. [[User:Seanpm2001|Seanpm2001]] ([[User talk:Seanpm2001|talk]]) 02:40, 20 January 2022 (UTC)Seanpm2001
+:: Thank you for the correction. I didn't know that part. I was taught to do it only with parentheses, and not apostrophes. I should probably go and fix my source code now. [[User:Seanpm2001|Seanpm2001]] ([[User talk:Seanpm2001|talk]]) 02:40, 20 January 2022 (UTC)Seanpm2001
+::: You don't need to fix any source code. If you have written programs using " then there's 0 benefit to spending your time to convert them. It doesn't matter. [[User:Akeosnhaoe|Akeosnhaoe]] ([[User talk:Akeosnhaoe#top|talk]]) 14:02, 20 January 2022 (UTC)
