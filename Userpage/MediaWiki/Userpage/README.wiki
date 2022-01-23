@@ -1,0 +1,17 @@
+This is my MediaWiki userpage for the user Seanpm2001. For my main page, go here: https://en.wikipedia.org/wiki/User:Seanpm2001
+
+== Usage of MediaWiki ==
+
+I use MediaWiki in a number of projects, for both public and personal use. They include:
+
+[https://github.com/seanpm2001/SNU_2D_Wiki SNU 2D / Wiki]
+
+[https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_MediaWiki SNU 2D / Programming Tools / IDE / MediaWiki] - Future use planned
+
+[https://github.com/seanpm2001/SeansLifeArchive_Extras_Wikipedia Seans Life Archive / Extras / Wikipedia] - Future use planned
+
+[https://github.com/seanpm2001/SNU_2D_ProgrammingTools SNU 2D / Programming Tools] - Future use planned
+
+== Page Status ==
+
+I am receiving automated messages telling me I am abusing the system, I give it extra reason why I shouldn't put this on the Wikiproject yet. So I will just publish the source code separately for now.
