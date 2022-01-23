@@ -1,0 +1,26 @@
+
+---
+
+{{int:version-credits-summary}}
+Seanpm2001/SeansLifeArchive_Extras_Wikipedia is a semi-collaborative project released under the GNU General Public License v3. We would like to recognize the following names for their contribution to the product.
+
+This comment block and this file (excluding author names) was modified from MediaWiki/CREDITS -->
+
+== Maintainers ==
+<!-- BEGIN MAINTAINERS LIST !-->
+
+1. @seanpm2001 - Creator and primary maintainer of this project
+2. @all-contributors [bot] - maintains links to users who interact with the project.
+3. No other contributors as of Saturday, 2022 January 22nd
+
+== Contributors ==
+<!-- BEGIN CONTRIBUTOR LIST -->
+1. @seanpm2001
+2. @all-contributors [bot] - maintains links to users who interact with the project.
+3. Jimmy Wales - For creating Wikipedia
+4. Larry Sanger - For co-creating Wikipedia
+5. The millions of Wikipedia/Wikimedia project volunteers that helped contribute over the past 21 years
+6. Rasmus Lerdorf - For creating the PHP programming language
+7. No other contributors as of Saturday, 2022 January 22nd
+
+---
