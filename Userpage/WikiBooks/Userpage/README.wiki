@@ -1,0 +1,17 @@
+This is my WikiBooks userpage for the user Seanpm2001. For my main page, go here: https://en.wikipedia.org/wiki/User:Seanpm2001
+
+== Usage of WikiBooks ==
+
+I have used WikiBooks to learn various computer science subjects and programming language subjects, including:
+
+:The Python programming language
+
+:The Assembly language
+
+:The VHDL language
+
+I hope to also use WikiBooks for other uses in the future.
+
+== Page Status ==
+
+I am receiving automated messages telling me I am abusing the system, I give it extra reason why I shouldn't put this on the Wikiproject yet. So I will just publish the source code separately for now.
