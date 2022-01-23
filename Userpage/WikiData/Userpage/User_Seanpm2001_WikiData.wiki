@@ -1,0 +1,13 @@
+This is my WikiData userpage for the user Seanpm2001. For my main page, go here: https://en.wikipedia.org/wiki/User:Seanpm2001
+
+== Usage of WikiData ==
+
+I use WikiSource from time to time to see structured data. I am still learning how WikiData works.
+
+== WikiData entries related to me ==
+
+There currently aren't any WikiData entries about me that I know of.
+
+== Page Status ==
+
+I am receiving automated messages telling me I am abusing the system, I give it extra reason why I shouldn't put this on the Wikiproject yet. So I will just publish the source code separately for now.
